@@ -1,2 +1,2 @@
-API_TOKEN = '8458880515:AAEpoCm2VNkYEKQyXzspPmj0l9FiKS48D1c'
+API_TOKEN = 'i like cheese'
 DATABASE = 'cheese.db'
